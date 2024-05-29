@@ -158,3 +158,14 @@ h3{
     text-align: center;
     padding: 20px;
 }
+
+#infSite{
+    color: red;
+}
+
+#EP{
+    background-color: #070347;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
